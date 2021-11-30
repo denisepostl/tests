@@ -1,2 +1,2 @@
-# tests
-Only for testing the build jenkins functions
+# TEST
+Only for testing the JENKINS-TestServer
